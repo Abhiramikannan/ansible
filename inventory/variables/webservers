@@ -1,3 +1,0 @@
----
-ansible_ssh_user: cloud-user
-ansible_ssh_private_key_file: /Users/kan/.ssh/webservers.key

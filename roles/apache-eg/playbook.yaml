@@ -1,7 +1,0 @@
----
-- hosts: aws1 
-  become: true
-  roles:
-    - apache
-  vars:
-    - doc_root: /var/www/example
